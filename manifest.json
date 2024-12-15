@@ -1,8 +1,12 @@
 {
+	"id": "sleep_timer_plugin",
 	"name": "Sleep Timer Plugin",
 	"version": "1.0.0",
 	"description": "Adds a sleep timer to the Jellyfin video player.",
-	"id": "sleep_timer_plugin",
-	"author": "Letronik",
-	"targetApiVersion": "10.8.0"
+	"author": "Your Name",
+	"targetApiVersion": "10.8.0",
+	"category": "Playback",
+	"icon": "https://example.com/icon.png",
+	"homepage": "https://github.com/<your-username>/jellyfin-sleep-timer-plugin",
+	"repository": "https://github.com/<your-username>/jellyfin-sleep-timer-plugin"
 }
